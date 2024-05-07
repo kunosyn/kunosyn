@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robtech21&theme=onedark&margin-w=15&margin-h=15&column=7" alt="robtech21" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunosyn&theme=discord&margin-w=15&margin-h=15&column=7" alt="robtech21" /></a> </p>
 
 
 <!--
