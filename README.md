@@ -11,7 +11,7 @@
     <td>~ She/Her ~</td>
     <td>Lord of the Rings Roblox Game<br><a href="https://github.com/kunosyn/RainysQOL">Rainy's QOL Terraria Mod</a><br>My Portfolio (Link Soon)</td>
     <td>
-      <div style="width:1%">I'm an 18 year old trans girl from Chicago!<br>I do a lot of Luau programming and am a huge C++ and C enthusiast.<br>(I also somewhat like C#)</div>
+      <div style="width:1%">I'm an 18 year old trans girl from Chicago!<br>I'm an aspiring Software Engineer. (Attending College Soon)<br> I do a lot of Luau programming and am a huge C++, C, and C# enthusiast.</div>
       <br/>
       <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunosyn&label=Profile%20views&color=0e75b6&style=flat" alt="kunosyn"/> </p>
     </td>
