@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>~ She/Her ~</td>
-    <td>Lord of the Rings Roblox Game<br><a href="https://github.com/kunosyn/RainysQOL">Rainy's QOL Terraria Mod</a><br><a href="https://kunosyn.com/">My Portfolio</a><br>spot-node<br><a href="https://github.com/kunosyn/Mine-Game">Mine Game</a>a></td>
+    <td>Lord of the Rings Roblox Game<br><a href="https://github.com/kunosyn/RainysQOL">Rainy's QOL Terraria Mod</a><br><a href="https://kunosyn.com/">My Portfolio</a><br>spot-node<br><a href="https://github.com/kunosyn/Mine-Game">Mine Game</a></td>
     <td>
       <div style="width:1%">I'm an 18 year old trans girl from Chicago!<br>I'm an aspiring Software Engineer. (Attending College Soon)<br> I do a lot of Luau programming and am a huge C++, C, and C# enthusiast.</div>
       <br/>
